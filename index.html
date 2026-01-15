@@ -55,17 +55,6 @@
             border-bottom: 1px solid rgba(255, 255, 255, 0.05);
         }
         
-        .logo-pedestal {
-            background: rgba(15, 23, 42, 0.5);
-            backdrop-filter: blur(24px);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-        }
-        
-        .logo-pedestal:hover {
-            transform: scale(1.1);
-        }
-        
         @keyframes shimmer {
             0% {
                 transform: translateX(-100%) skewX(-15deg);
@@ -138,19 +127,17 @@
     <div class="fixed inset-0 glow-2 -z-20"></div>
 
     <!-- Navigation with glassmorphism -->
-    <nav class="glass-nav fixed top-0 left-0 right-0 z-50">
+    <nav class="glass-nav fixed top-0 left-0 right-0 z-50 border-b border-white/5">
         <div class="max-w-7xl mx-auto px-4 md:px-6 py-2 md:py-3">
             <div class="flex items-center justify-between">
-                <!-- Left: Brand Mark (visible on all screens) -->
-                <div class="text-[10px] font-black text-white tracking-[0.5em] uppercase flex-shrink-0">
-                    VOCAL CORTEX
+                <!-- Left: Brand Name -->
+                <div class="text-[10px] md:text-xs font-black text-white tracking-[0.5em] uppercase">
+                    VOCALCORTEX
                 </div>
                 
-                <!-- Center-Right: Logo (centered on mobile, right on desktop) -->
-                <div class="flex-1 flex justify-center md:flex-none md:ml-auto md:justify-end">
-                    <div class="logo-pedestal p-3 md:p-4 rounded-2xl inline-flex items-center justify-center">
-                        <img src="assets/icononly_nobuffer.png" alt="VocalCortex Logo" class="h-10 md:h-12 w-auto object-contain">
-                    </div>
+                <!-- Right: Transparent Logo -->
+                <div class="flex items-center">
+                    <img src="assets/icononly_transparent.png" alt="VocalCortex Logo" class="h-10 md:h-12 w-auto object-contain">
                 </div>
             </div>
         </div>
@@ -163,7 +150,7 @@
                 Vocal<span class="text-blue-500">Cortex</span>
             </h1>
             
-            <p class="text-slate-400 font-semibold tracking-[0.3em] uppercase text-xs sm:text-sm mb-12 max-w-2xl">
+            <p class="text-slate-200 font-medium tracking-[0.3em] uppercase text-xs sm:text-sm mb-12 max-w-2xl">
                 // Neural Intelligence <span class="mx-2 text-slate-500">x</span> Auditory Branding
             </p>
         </header>
@@ -172,7 +159,7 @@
             
             <div class="md:col-span-2 glass-card p-8 md:p-12 rounded-[2.5rem] shadow-2xl border border-white/10 card-lift">
                 <h2 class="text-3xl md:text-4xl font-black text-white mb-6 md:mb-8 leading-tight tracking-tighter">The Future of Voice, <br><span class="text-blue-500">Acquired Today.</span></h2>
-                <p class="text-slate-400 text-lg md:text-xl leading-relaxed mb-8 md:mb-10 font-medium">
+                <p class="text-slate-200 text-lg md:text-xl leading-relaxed mb-8 md:mb-10 font-medium">
                     VocalCortex is a turnkey brand for the AI era. 
                     Launch instantly with a premium domain, 
                     matching @VocalCortex handles, and a high-fidelity visual asset library.
@@ -216,17 +203,20 @@
         <footer class="text-center pt-12 md:pt-16 pb-8 border-t border-white/10">
             <div class="flex items-center justify-center gap-3 mb-8">
                 <div class="status-dot w-2 h-2 rounded-full bg-green-500"></div>
-                <p class="text-xs md:text-sm text-slate-400 font-mono uppercase tracking-[0.3em] md:tracking-[0.4em]">
+                <p class="text-xs md:text-sm text-slate-300 font-mono uppercase tracking-[0.3em] md:tracking-[0.4em]">
                     Status: Production Ready
                 </p>
             </div>
-            <p class="text-xs md:text-sm text-slate-400 font-mono uppercase tracking-[0.3em] md:tracking-[0.4em] mb-8">
+            <p class="text-xs md:text-sm text-slate-300 font-mono uppercase tracking-[0.3em] md:tracking-[0.4em] mb-8">
                 Secured Digital Assets &bull; Managed by pyravim
             </p>
             <div class="flex flex-wrap justify-center gap-6 md:gap-10">
-                <span class="text-[10px] md:text-xs text-slate-400 font-mono uppercase tracking-tighter">Vercel 2026 Production Ready</span>
-                <span class="text-[10px] md:text-xs text-slate-400 font-mono uppercase tracking-tighter">Direct Repository Transfer</span>
-                <span class="text-[10px] md:text-xs text-slate-400 font-mono uppercase tracking-tighter">Escrow Protected Acquisition</span>
+                <span class="text-[10px] md:text-xs text-slate-300 font-mono uppercase tracking-tighter flex items-center gap-2">
+                    <span class="status-dot w-1.5 h-1.5 rounded-full bg-green-500"></span>
+                    Vercel 2026 Production Ready
+                </span>
+                <span class="text-[10px] md:text-xs text-slate-300 font-mono uppercase tracking-tighter">Direct Repository Transfer</span>
+                <span class="text-[10px] md:text-xs text-slate-300 font-mono uppercase tracking-tighter">Escrow Protected Acquisition</span>
             </div>
         </footer>
     </div>
