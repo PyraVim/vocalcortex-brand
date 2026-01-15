@@ -3,35 +3,109 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>VocalCortex | AI Voice & Neural Branding</title>
+    <title>VocalCortex | AI Voice & Neural Branding Bundle</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @keyframes pulse-glow {
+            0%, 100% { opacity: 0.2; transform: scale(1); }
+            50% { opacity: 0.5; transform: scale(1.05); }
+        }
+        .neural-bg {
+            background: radial-gradient(circle at 50% 50%, #1e293b 0%, #020617 100%);
+        }
+        .pulse {
+            animation: pulse-glow 10s infinite ease-in-out;
+            background: radial-gradient(circle, rgba(56, 189, 248, 0.1) 0%, rgba(15, 23, 42, 0) 70%);
+        }
+        .glass {
+            background: rgba(255, 255, 255, 0.03);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+    </style>
 </head>
-<body class="bg-slate-950 text-slate-200 min-h-screen flex items-center justify-center p-6">
-    <div class="max-w-3xl w-full bg-slate-900 border border-slate-800 rounded-3xl p-8 md:p-12 shadow-2xl text-center">
-        <div class="mb-8 flex justify-center">
-             <div class="h-20 w-20 bg-blue-500 rounded-2xl flex items-center justify-center shadow-lg shadow-blue-500/20">
-                <span class="text-white font-bold text-2xl">VC</span>
-             </div>
-        </div>
+<body class="neural-bg text-slate-200 min-h-screen font-sans selection:bg-blue-500/30">
 
-        <h1 class="text-4xl md:text-5xl font-extrabold text-white mb-4 tracking-tight">VocalCortex<span class="text-blue-500">.com</span></h1>
-        <p class="text-lg text-slate-400 mb-8 leading-relaxed">
-            A premium turnkey brand for the AI revolution. 
-            Perfect for voice synthesis, neural audio processing, and biotech ventures.
-        </p>
+    <div class="fixed inset-0 pulse -z-10"></div>
 
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-10 text-sm font-medium uppercase tracking-widest text-slate-500">
-            <div class="py-2 border border-slate-800 rounded-lg bg-slate-950/50">TikTok</div>
-            <div class="py-2 border border-slate-800 rounded-lg bg-slate-950/50">X / Twitter</div>
-            <div class="py-2 border border-slate-800 rounded-lg bg-slate-950/50">Instagram</div>
-            <div class="py-2 border border-slate-800 rounded-lg bg-slate-950/50">LinkedIn</div>
-        </div>
-
-        <a href="YOUR_FLIPPA_LINK_HERE" class="inline-block bg-blue-600 hover:bg-blue-500 text-white font-bold py-4 px-10 rounded-full transition-all transform hover:scale-105 shadow-xl shadow-blue-900/20">
-            Acquire Full Brand Assets
-        </a>
+    <div class="max-w-6xl mx-auto px-6 py-12 md:py-20">
         
-        <p class="mt-8 text-xs text-slate-600 italic">Includes .com domain, exact-match handles, and visual identity.</p>
+        <header class="flex flex-col items-center mb-16">
+            <div class="mb-6 p-4 glass rounded-3xl shadow-2xl">
+                <img src="assets/logo-main.svg" alt="VocalCortex" class="h-20 w-auto">
+            </div>
+            <h1 class="text-5xl md:text-7xl font-black text-white tracking-tighter mb-4">
+                Vocal<span class="text-blue-500">Cortex</span>
+            </h1>
+            <div class="px-4 py-1 glass rounded-full text-xs font-bold tracking-[0.2em] text-blue-400 uppercase">
+                Premium Brand Bundle Available
+            </div>
+        </header>
+
+        <div class="grid lg:grid-cols-2 gap-12 items-center mb-24">
+            <div class="text-left">
+                <h2 class="text-3xl font-bold text-white mb-6">The Ultimate Identity for AI Voice Technology.</h2>
+                <p class="text-lg text-slate-400 leading-relaxed mb-8">
+                    VocalCortex is a turnkey digital asset designed for the next generation of voice synthesis, neural processing, and AI-driven communication. This bundle saves 100+ hours of branding, securing handles, and identity design.
+                </p>
+                <div class="flex flex-wrap gap-4">
+                    <a href="YOUR_FLIPPA_LINK" class="bg-blue-600 hover:bg-blue-500 text-white font-bold py-4 px-8 rounded-2xl transition-all transform hover:-translate-y-1 shadow-lg shadow-blue-500/20">
+                        Acquire on Flippa
+                    </a>
+                    <a href="#assets" class="glass hover:bg-white/10 text-white font-bold py-4 px-8 rounded-2xl transition-all">
+                        View Asset Bundle
+                    </a>
+                </div>
+            </div>
+            
+            <div class="grid grid-cols-2 gap-4">
+                <div class="glass p-6 rounded-3xl text-left">
+                    <div class="text-blue-500 font-bold text-2xl mb-2">.com</div>
+                    <div class="text-sm text-slate-400">Premium Domain Included</div>
+                </div>
+                <div class="glass p-6 rounded-3xl text-left">
+                    <div class="text-blue-500 font-bold text-2xl mb-2">4/4</div>
+                    <div class="text-sm text-slate-400">Exact Social Handles</div>
+                </div>
+                <div class="glass p-6 rounded-3xl col-span-2 text-left">
+                    <div class="text-blue-500 font-bold text-2xl mb-2">Visuals</div>
+                    <div class="text-sm text-slate-400">Full Logo & Style Guide Repository</div>
+                </div>
+            </div>
+        </div>
+
+        <section id="assets" class="mb-24">
+            <h3 class="text-center text-slate-500 uppercase tracking-widest text-sm font-bold mb-10">Uniform Digital Presence</h3>
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+                <a href="https://x.com/VocalCortex" target="_blank" class="glass p-6 rounded-2xl hover:border-blue-500/50 transition-all group text-center">
+                    <div class="text-white font-bold group-hover:text-blue-400 transition-colors">X / Twitter</div>
+                    <div class="text-xs text-slate-500">@VocalCortex</div>
+                </a>
+                <a href="https://www.tiktok.com/@VocalCortex" target="_blank" class="glass p-6 rounded-2xl hover:border-blue-500/50 transition-all group text-center">
+                    <div class="text-white font-bold group-hover:text-blue-400 transition-colors">TikTok</div>
+                    <div class="text-xs text-slate-500">@VocalCortex</div>
+                </a>
+                <a href="https://www.instagram.com/VocalCortex" target="_blank" class="glass p-6 rounded-2xl hover:border-blue-500/50 transition-all group text-center">
+                    <div class="text-white font-bold group-hover:text-blue-400 transition-colors">Instagram</div>
+                    <div class="text-xs text-slate-500">@VocalCortex</div>
+                </a>
+                <a href="https://www.linkedin.com/company/vocalcortex" target="_blank" class="glass p-6 rounded-2xl hover:border-blue-500/50 transition-all group text-center">
+                    <div class="text-white font-bold group-hover:text-blue-400 transition-colors">LinkedIn</div>
+                    <div class="text-xs text-slate-500">Company Page</div>
+                </a>
+            </div>
+        </section>
+
+        <footer class="border-t border-white/10 pt-12 flex flex-col md:flex-row justify-between items-center gap-6">
+            <div class="text-slate-500 text-sm">
+                Built by <span class="text-slate-300">pyravim</span> &bull; Secured via Flippa Escrow
+            </div>
+            <div class="flex gap-6 text-sm font-bold">
+                <span class="text-slate-400 uppercase tracking-tighter">GitHub Repo Included</span>
+                <span class="text-slate-400 uppercase tracking-tighter">Vercel Production Ready</span>
+            </div>
+        </footer>
     </div>
+
 </body>
 </html>
