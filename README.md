@@ -1,45 +1,54 @@
-# VocalCortex.com | Premium AI Brand Bundle
+# VocalCortex | Premium AI Brand Bundle 
 
-This repository contains the visual identity, landing page source code, and asset architecture for **VocalCortex**, a turnkey brand designed for the AI and neural technology sector.
+> **Status:** Production-Ready Asset Package  
+> **Acquisition:** Available via [Flippa](YOUR_FLIPPA_LINK_HERE)
+
+VocalCortex is a turnkey, high-authority brand identity designed for the 2026 AI and neural-tech sector. This repository contains the visual architecture and landing page source code for the brand.
 
 ## 🚀 The Vision
-VocalCortex is a punchy, high-authority brand name perfect for:
-- AI Voice Synthesis & Cloning (LLM extensions)
-- Neural Audio Processing & Speech-to-Text
-- Assistive Communication Tech
-- Next-gen Podcasting & Media Suites
+VocalCortex is positioned as a "Foundation Model" brand, perfect for:
+* **AI Voice Synthesis:** LLM voice cloning and text-to-speech.
+* **Neural Audio:** Auditory branding and neural-integrated vocal intelligence.
+* **SaaS Infrastructure:** Next-gen media suites and assistive communication tech.
 
-## 📦 What's Included (The Bundle)
-Acquiring this brand provides full ownership of the following digital assets:
+## 📦 What's Included
+Acquiring VocalCortex provides full ownership of the following digital assets:
 
 ### 1. Premium Domain
-- **vocalcortex.com** (Registered at GoDaddy)
+* **vocalcortex.com** (Registered at GoDaddy) — High-memorability, industry-standard naming.
 
 ### 2. Social Media "Clean Sweep"
-All handles are exact-match `@VocalCortex`:
-- **TikTok** (Active/Intro post live)
-- **X (Twitter)** (Active/Intro post live)
-- **Instagram** (Active/Intro post live)
-- **LinkedIn** (Company Page established)
+All handles are exact-match **@VocalCortex**, ensuring unified brand authority:
+* **X (Twitter):** Profile established & branded.
+* **LinkedIn:** Company Page established with 2026-ready assets.
+* **Instagram:** Handle secured & profile staged.
+* **TikTok:** Profile setup complete & optimized for mobile-first marketing.
 
-### 3. Visual Identity
-- High-resolution SVG and PNG logo variations.
-- Modern, dark-mode AI aesthetic ready for Vercel/GitHub Pages deployment.
+### 3. Visual Identity & Source Code
+* **Brand Library:** High-resolution SVG and PNG logo variations (Slate-950 & Blue-500 palette).
+* **Source Code:** Production-ready landing page built with **Tailwind CSS**.
+* **Design:** Optimized for Vercel/GitHub Pages with modern "Glassmorphism" and "Neural-Dark" aesthetics.
 
-## 🛠 Technical Setup
-The landing page is built using **Tailwind CSS** and is optimized for deployment on **Vercel** or **GitHub Pages**.
-
-### Deployment
-To deploy this showroom:
-1. Fork this repo.
-2. Connect to Vercel.
-3. Update the `YOUR_FLIPPA_LINK` in `index.html`.
+## 🛠 Technical Stack
+* **Frontend:** HTML5 / Tailwind CSS
+* **Typography:** Inter & Space Grotesk (Google Fonts)
+* **Assets:** Optimized PNG/SVG architecture
+* **Deployment:** Pre-configured for Vercel, Netlify, or GitHub Pages.
 
 ## 🤝 Acquisition & Transfer
-The sale of this brand is managed via **Flippa**. Upon successful transaction:
-1. **Domain:** Immediate "Push" to your GoDaddy account.
-2. **GitHub:** Ownership of this repository will be transferred to your username.
-3. **Socials:** Master login credentials for the burner email and all platforms will be provided via a secure Transfer Kit.
+The sale of this brand is managed via **Flippa**. Upon a successful transaction, we will execute a coordinated handoff:
+
+1. **Domain:** Immediate "Push" to your GoDaddy account (or Auth Code provided for external transfer).
+2. **GitHub:** Ownership of this repository will be transferred directly to your GitHub username.
+3. **LinkedIn Page Transfer:**
+   * You will provide your LinkedIn profile link.
+   * I will add you as a **Super Admin** to the VocalCortex Company Page.
+   * Once you accept, you will remove my profile as an admin, giving you 100% exclusive ownership.
+4. **Social Media & Email:**
+   * You will receive the master credentials for the **"Brand Burner" email** used to create all accounts.
+   * This ensures you can reset passwords and 2FA for X, TikTok, and Instagram immediately.
+
+*All transfers are conducted via Flippa Escrow to ensure a secure and verified exchange.*
 
 ---
 *Created with precision for the next generation of voice-first technology.*
