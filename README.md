@@ -25,8 +25,8 @@ All handles are exact-match **@VocalCortex**, ensuring unified brand authority:
 * **TikTok:** Profile setup complete & optimized for mobile-first marketing.
 
 ### 3. Visual Identity & Design System
-* **Master Brand Library:** High-resolution SVG and PNG logo variations optimized for both print and digital.
-* **Web-Optimized Assets:** Includes "Tight-Crop" SVG icons and a 1280px custom-spaced Wordmark for pixel-perfect header alignment.
+* **Master Brand Library:** High-resolution SVG and PNG logo variations.
+* **Asset Bundle:** Structured local folders including "Tight-Crop" icons and print-ready masters.
 * **Social Suite:** Profile-ready avatars and 2026-spec headers for X and LinkedIn.
 * **Source Code:** Production-ready landing page built with Tailwind CSS, featuring "Neural-Dark" aesthetics and glassmorphism.
 
@@ -39,7 +39,7 @@ All handles are exact-match **@VocalCortex**, ensuring unified brand authority:
 ## 🤝 Acquisition & Transfer
 The sale of this brand is managed via **Flippa**. Upon a successful transaction, we will execute a coordinated handoff:
 
-1. **Domain:** Immediate "Push" to your GoDaddy account (or Auth Code provided for external transfer).
+1. **Domain:** Immediate "Push" to your GoDaddy account for instant ownership. (Auth Code provided for external transfer once the ICANN 60-day window clears).
 2. **GitHub:** Ownership of this repository will be transferred directly to your GitHub username.
 3. **LinkedIn Page Transfer:**
    * You will provide your LinkedIn profile link.
@@ -49,7 +49,5 @@ The sale of this brand is managed via **Flippa**. Upon a successful transaction,
    * You will receive the master credentials for the **"Brand Burner" email** used to create all accounts.
    * This ensures you can reset passwords and 2FA for X, TikTok, and Instagram immediately.
 
-*All transfers are conducted via Flippa Escrow to ensure a secure and verified exchange.*
-
 ---
-*Created with precision for the next generation of voice-first technology.*
+*Architected by PyraVim for Fletch Domains*
