@@ -50,4 +50,8 @@ The sale of this brand is managed via **Flippa**. Upon a successful transaction,
    * This ensures you can reset passwords and 2FA for X, TikTok, and Instagram immediately.
 
 ---
+
+### ⚖️ Legal Note
+The source code in this repository is provided under the MIT License. However, the **VocalCortex** name, logos, and brand identity are proprietary assets. Full commercial rights and ownership of the brand assets are transferred exclusively to the buyer upon completion of the sale via Flippa.
+
 *Architected by PyraVim for Fletch Domains*
