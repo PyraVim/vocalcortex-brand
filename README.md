@@ -1,7 +1,7 @@
 # VocalCortex | Premium AI Brand Bundle 
 
 > **Status:** Production-Ready Asset Package  
-> **Acquisition:** Available via [Flippa](YOUR_FLIPPA_LINK_HERE)
+> **Acquisition:** Available via [Flippa](https://flippa.com/12280930-vocalcortex-com)
 
 VocalCortex is a turnkey, high-authority brand identity designed for the 2026 AI and neural-tech sector. This repository contains the visual architecture and landing page source code for the brand.
 
